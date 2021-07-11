@@ -34,6 +34,7 @@ if __name__ == "__main__":
     Stack_ = Stack()
     Stack_.push(3)
     Stack_.show_stack_form_top()
+    print(Stack_.top.data)
     Stack_.push(2)
     Stack_.show_stack_form_top()
     Stack_.push(1)
