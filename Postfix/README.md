@@ -1,8 +1,9 @@
-# Data-Structure Stack implement
+# Data-Structure Postfix use stack to implement
 
-Use linked-list to implement Stack.
-There are four functions.
-* Push item in the stack.
-* Pop item form stack.(if the stack is not empty)
-* Is stack empty or not.
-* Show the item in the stack.(form top)
+Use Stack to implement Postfix.
+There are two functions.
+
+*One is infix convert to postfix
+operator priority
+"(" (outside) > "^"(outside) > "^"(inside) > "*" = "/" > "+" > "-" > ">" = "<" > "~" > "&" = "|" > "=" > "(" (inside)
+*The other is calculate the postfix 
