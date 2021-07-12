@@ -6,8 +6,8 @@ There are two functions.
 *One is infix convert to postfix  
 operator priority  
 "(" (outside) > "^"(outside) > "^"(inside) > "*" = "/" > "+" > "-" > ">" = "<" > "~" > "&" = "|" > "=" > "(" (inside)  
-![image](https://github.com/Joechen0130/Data-Structure/blob/master/infix2postfix.png)
+![image](https://github.com/Joechen0130/Data-Structure/blob/master/Postfix/infix2postfix.png)
   
 *The other is calculate the postfix   
-![image](https://github.com/Joechen0130/Data-Structure/blob/master/postfix_calculate.png)
+![image](https://github.com/Joechen0130/Data-Structure/blob/master/Postfix/postfix_calculate.png)
   
