@@ -9,5 +9,5 @@ operator priority
 ![image](https://github.com/Joechen0130/Data-Structure/blob/master/infix2postfix.png)
   
 *The other is calculate the postfix   
-  
+![image](https://github.com/Joechen0130/Data-Structure/blob/master/postfix_calculate.png)
   
